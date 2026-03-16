@@ -1,7 +1,6 @@
 # Hello, I'm Igor Xavier 👋
 
 💻 Programming student  
-🚀 Focused on backend and systems programming  
 📚 Currently studying C, C# and Java  
 
 ---
@@ -30,7 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-xavier-dos-santos-23802815a/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igorxavier.49@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorxavier.49@gmail.com)
 
 ---
 
