@@ -73,13 +73,6 @@ em projetos práticos, buscando minha primeira oportunidade profissional na áre
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=i-xavier&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
 > **Observação:** os percentuais de linguagens representam a quantidade de código detectada nos
 > meus repositórios públicos e não representam meu nível de conhecimento em cada tecnologia.
 
