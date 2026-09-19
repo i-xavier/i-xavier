@@ -41,27 +41,34 @@ Atualmente aprofundo meus conhecimentos em desenvolvimento web pelo **Full Stack
   <tr>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-xavier&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-        <img alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-xavier&layout=compact&langs_count=8&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+        <img alt="Linguagens por repositório" src="./profile-summary-card-output/github/1-repos-per-language.svg" width="100%" />
       </picture>
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=i-xavier&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
-        <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=i-xavier&show_icons=true&count_private=true&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+        <img alt="Linguagens por commits" src="./profile-summary-card-output/github/2-most-commit-language.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+        <img alt="Estatísticas do GitHub" src="./profile-summary-card-output/github/3-stats.svg" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+        <img alt="Horários de maior produtividade" src="./profile-summary-card-output/github/4-productive-time.svg" width="100%" />
       </picture>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=i-xavier&hide_border=true&theme=github-dark-blue" />
-    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=i-xavier&hide_border=true" />
-  </picture>
-</p>
-
-<sub>Os percentuais de linguagem consideram o volume de código nos repositórios públicos e refletem o que foi versionado, não o nível de domínio em cada tecnologia.</sub>
+<sub>Cards gerados automaticamente via GitHub Actions a cada 24 horas. Os percentuais de linguagem refletem o volume de código versionado, não o nível de domínio em cada tecnologia.</sub>
 
 ---
 
