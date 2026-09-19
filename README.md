@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:SEU-EMAIL@exemplo.com">E-mail</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/i-xavier/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:igorxavier.49@gmail.com">E-mail</a> &nbsp;|&nbsp;
   <a href="https://github.com/i-xavier?tab=repositories">Repositórios</a>
 </p>
 
